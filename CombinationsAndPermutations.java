@@ -22,5 +22,6 @@ public class CombinationsAndPermutations {
         int n = 45, r = 17;
         System.out.println("P(" + n + ", " + r + ") = " + permutation(n, r));
         System.out.println("C(" + n + ", " + r + ") = " + combination(n, r));
+        Hi my name is Sophia
     }
 }
